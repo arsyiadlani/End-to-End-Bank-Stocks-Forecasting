@@ -19,7 +19,7 @@ We use secondary data in the form of historical stock price data from banks majo
 
 ## E. Project Deployment
 
-We deployed the model that has been built using streamlit and Heroku as a platform as a service for our deployment model.
+We deployed the model that has been built using streamlit and Heroku as a platform as a service for our model deployment.
 
 - Model Deployment: https://forecast-indonesianbankstocks.herokuapp.com/ 
 - App Description Video: https://youtu.be/tarQsQ_AGmE 
