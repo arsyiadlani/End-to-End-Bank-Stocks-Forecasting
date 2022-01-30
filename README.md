@@ -15,12 +15,11 @@ The stock market index has become one of the most common leading indicators used
 
 ## D. Data Requirements
 
-We use secondary data in the form of historical stock price data from banks major banks in Indonesia, including Bank BCA, Bank BNI, and Bank BRI obtained from the Dataset of Bank Indonesia and Yahoo Finance to conduct analysis and build a model for stock price forecasting (stock price forecasting).
+We use secondary data in the form of historical stock price data from banks major banks in Indonesia, including Bank BCA, Bank BNI, and Bank BRI obtained from the Dataset of Bank Indonesia and Yahoo Finance to conduct analysis and build a model for stock price forecasting.
 
 ## E. Project Deployment
 
 We deployed the model that has been built using streamlit and Heroku as a platform as a service for our deployment model.
 
-Model Deployment: https://forecast-indonesianbankstocks.herokuapp.com/ 
-
-App Description Video: https://youtu.be/tarQsQ_AGmE 
+- Model Deployment: https://forecast-indonesianbankstocks.herokuapp.com/ 
+- App Description Video: https://youtu.be/tarQsQ_AGmE 
