@@ -1,5 +1,5 @@
-# End-to-End-Bank-Stocks-Forecasting
-An end-to-end time series analysis and forecasting for Indonesian bank stocks predictions.
+# End-to-End Time Series Analysis for Indonesian Bank Stocks Forecasting
+English | Indonesian
 
 ## A. Project Theme
 
