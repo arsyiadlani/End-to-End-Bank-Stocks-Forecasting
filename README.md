@@ -11,11 +11,11 @@ Bank Stocks Price Prediction Through Time Series Analysis and Forecasting
 
 ## C. Problem Description
 
-The stock market index has become one of the most common leading indicators used as a reference for economic conditions, both from the scale of the company to the scale of the national economy. In addition, the value of the stock market index is also often used by investment companies and individual investors as a reference in making investment decisions. Therefore, the ability to predict the movement of the stock market index value is a critical requirement. Here, data science can be applied through various methods and machine algorithms learning to analyze and predict the stock price of a company. For this big task, time series analysis was carried out on the historical dataset of stock prices major banks in Indonesia and uses the main components in stock prices, namely: Open, High, Low, and Closing (OHLC) prices with various parameters as predictors in predicting future stock prices.
+The stock market index has become one of the most common leading indicators used as a reference for economic conditions, both from the scale of the company to the scale of the national economy. In addition, the value of the stock market index is also often used by investment companies and individual investors as a reference in making investment decisions. Therefore, the ability to predict the movement of the stock market index value is a critical requirement. Here, data science can be applied through various methods and machine algorithms learning to analyze and predict the stock price of a company. For this big task, time series analysis was carried out on the historical dataset of stock prices major banks in Indonesia including Bank Negara Indonesia (BNI), Bank Rakyat Indonesia (BRI), and Bank Central Asia (BCA) and uses the main components in stock prices, namely: Open, High, Low, and Closing (OHLC) prices with various parameters as predictors in predicting future stock prices.
 
 ## D. Data Requirements
 
-We use secondary data in the form of historical stock price data from banks major banks in Indonesia, including Bank BCA, Bank BNI, and Bank BRI obtained from the Dataset of Bank Indonesia and Yahoo Finance to conduct analysis and build a model for stock price forecasting.
+We use secondary data in the form of historical stock price data from banks major banks in Indonesia, including Bank BNI, Bank BRI, and Bank BCA obtained from the Dataset of Bank Indonesia and Yahoo Finance to conduct analysis and build a model for stock price forecasting.
 
 ## E. Project Deployment
 
